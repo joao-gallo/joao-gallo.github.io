@@ -9,6 +9,9 @@ body{
     border-style: double;
     border-color: #1B5299;
 }
+li:hover{
+    color: green;
+}
 #principais{
     text-align:justify;
     border: 10px;
