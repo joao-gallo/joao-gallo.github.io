@@ -1,0 +1,37 @@
+body{
+    background-color: #F8F7FF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#cafe{ 
+    text-align: justify;
+    border: 10px;
+    border-style: double;
+    border-color: #1B5299;
+}
+#principais{
+    text-align:justify;
+    border: 10px;
+    border-style: double;
+    border-color: #1B5299;
+}
+
+#limpeza{
+    text-align:justify;
+    border: 10px;
+    border-style: double;
+    border-color: #1B5299;
+}
+
+#kg{
+    text-align:justify;
+    border: 10px;
+    border-style: double;
+    border-color: #1B5299;
+}
+
+.foto{
+    
+    float: inline-end;
+   margin-right: 5%;
+}
