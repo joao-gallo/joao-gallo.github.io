@@ -1,6 +1,6 @@
 const blocos = document.getElementsByClassName('color');
-blocos[0].style.backgroundColor = 'black'
-blocos[1].style.backgroundColor = 'green'
+blocos[0].style.backgroundColor = 'red'
+blocos[1].style.backgroundColor = 'violet'
 blocos[2].style.backgroundColor = 'yellow'
 blocos[3].style.backgroundColor = 'grey'
 
